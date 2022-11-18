@@ -40,7 +40,7 @@
     "url": "https://github.com/YunaiV/ruoyi-vue-pro"
   },
   "dependencies": {
-    "@babel/parser": "7.18.4",
+    "@babel/parser": "7.20.0",
     "@riophae/vue-treeselect": "0.4.0",
     "axios": "0.27.2",
     "bpmn-js-token-simulation": "0.10.0",
