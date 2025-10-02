@@ -32,9 +32,9 @@
     "@zxcvbn-ts/core": "^2.1.0",
     "animate.css": "^4.1.1",
     "axios": "^0.27.2",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "dayjs": "^1.11.6",
-    "echarts": "^5.4.0",
+    "echarts": "^5.5.1",
     "echarts-wordcloud": "^2.0.0",
     "element-plus": "2.2.20",
     "intro.js": "^6.0.0",
@@ -54,7 +54,7 @@
     "vue-types": "^4.2.1",
     "vxe-table": "^4.3.5",
     "web-storage-cache": "^1.1.1",
-    "xe-utils": "^3.5.7"
+    "xe-utils": "^3.7.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.2.0",
